@@ -1,0 +1,61 @@
+#dayofweek{
+  background-color: transparent;
+  border: px transparent;   
+  width:156px; 
+  height:10px;  
+  margin: 18px 100px auto;    
+  font-size: 16px;        
+  text-align: center; 
+  letter-spacing: 1px;
+  text-shadow: -1px 1px 0px #c98b45;
+}
+
+#date{
+  background-color: transparent;
+  border: 0px transparent;   
+  width:156px; 
+  height:7px;  
+  margin: 0px 100px auto;    
+  font-size: 28px;        
+  text-align: center; 
+  letter-spacing: 1px;
+  text-shadow: -1px 1px 0px #c98b45;
+}
+
+#clock {
+    background-color: transparent;
+    border: 0px transparent;   
+    width:156px; 
+    height:30px;  
+    margin: 0px 100px auto;    
+    font-size: 42px;        
+    text-align: center; 
+    letter-spacing: 1px;
+    text-shadow: -2px 2px 0px #c98b45;
+}
+
+#bottom {
+  background-color: transparent;
+  border: 0px transparent;   
+  width: 56px; 
+  height:30px;  
+  margin: 46px 62px auto;    
+  font-size: 50px;        
+  text-align: center; 
+  letter-spacing: 6px;
+  color: #7b0003;
+  text-shadow: -1px 1px 2px #c98b45;
+  font-weight: 900;
+  opacity: 0.8;
+}
+
+@font-face {
+  font-family: StardewFont;
+  src: url(stardew-valley.ttf);
+}
+
+div {
+  font-family: StardewFont;
+  margin: 0px;
+} 
+
